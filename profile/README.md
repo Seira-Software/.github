@@ -9,7 +9,7 @@ Our goals is:
 4. Build copilot system for our CRM inside telegram.
 5. Provide as pleasant experience as we can.
 
-Future goals.
+Our future imagination:
 1. Build a low-level biased Render Engine for Houdini.
 2. Port render engine to Cinema4D and Blender.
 3. Provide direct API for editing shaders.
