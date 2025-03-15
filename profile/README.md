@@ -11,7 +11,8 @@ Our goals is:
 
 Future goals.
 1. Build a low-level biased Render Engine for Houdini.
-2. Port this render engine to Cinema4D and Blender.
+2. Port render engine to Cinema4D and Blender.
 3. Provide direct API for editing shaders.
-4. Build more CG related software.
+4. Distributed rendering system.
+5. Build more CG related software.
 
